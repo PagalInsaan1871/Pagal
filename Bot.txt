@@ -1,0 +1,3 @@
+ip=Hogalala121.aternos.me
+Port=58615
+name=Pagal
